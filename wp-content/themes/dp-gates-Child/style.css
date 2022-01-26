@@ -1,0 +1,189 @@
+/*
+Theme Name:     DP Gates Child
+Description:    Child theme for the Gates theme 
+Author:         Dynamicpress
+Author URI:     http://www.dynamicpress.eu
+Template:       dp-gates
+Version:        1.0
+*/
+
+.no-show{
+	display: none !important;
+}
+
+.gates-sticky-navigation-wrapper.skewed #gates-head h2 {
+    padding-top: 5px;
+}
+
+.home-custom-btn button{
+    color: #ffffff;
+    /*font-family: 'Open Sans';*/
+    font-family: 'Montserrat';    
+    font-weight: bold;
+}
+
+.general-dp-headline-margin{
+	margin-bottom: 0px;
+}
+
+.img-border-radius figure{
+	border-radius: 15px;
+}
+
+.general-dp-headline-margin-20{
+	margin-bottom: 20px;
+}
+
+.no-bottom-margin{
+	margin-bottom: 0px !important;
+}
+
+.what-we-do-tiles-style h4{
+	margin-bottom: 15px;
+}
+
+.what-we-do-grid .vc_column-inner{
+	/*padding: 15px;*/
+    /*background: #F4F6F8;*/
+}
+
+.what-we-do-custom-btn button{
+    color: #ffffff;
+    /*font-family: 'Open Sans';*/
+    font-family: 'Montserrat';    
+    font-weight: bold;
+}
+
+.our-companies-grey-border{
+	border: 1px solid #e1e3e5;
+    text-align: center;    
+    line-height: 0;
+}
+
+.our-companies-grey-border img{
+	opacity: 1;
+	box-shadow: 2px 4px 7px #ccc;
+}
+
+.our-companies-list{
+	margin-top: 5px;
+}
+
+.our-companies-list li{
+    line-height: 1.8;
+}
+
+.tp-caption.semi-gray-bordered, .semi-gray-bordered{
+	background-color: rgba(50,55,60,0.70);
+}
+
+figure.portfolio-overlay .text-overlay{
+	background: none;
+    /*display: none;*/
+}
+
+figure .text-overlay .info {
+    top: 50%;
+    left: 0;
+}
+
+figure .text-overlay .info1{
+	display: none;
+}
+
+figure a .text-overlay .info span i, figure .text-overlay .info span a i, figure .text-overlay .info a i{
+	opacity: 1;
+	font-size: 40px;
+}
+
+.full-width-override{
+	width: 100%;
+}
+
+.gates-breadcrumbs a, .gates-breadcrumbs span{
+	opacity: 1;
+}
+
+.gates-custom-portfolio .portfolio-tabs li a{
+	padding-top: 0px;
+}
+
+.portfolio-wrap{
+	margin-top: -60px;
+}
+
+body p{
+	text-align: justify !important;
+}
+
+.our-companies-grey-border img:hover{
+	transform: scale(1.1);
+}
+
+.wwd-height-1{
+	display: block;
+	min-height: 115px;
+}
+
+.wwd-height-2{
+	display: block;
+	min-height: 132px;
+}
+
+.portfolio-tabs-custom li:first-child{
+	margin-left: 5px;
+}
+.select-box{
+	min-width: 100% ;
+}
+.border-box {
+	max-width: 380px;
+    box-shadow: 2px 4px 7px #ccc;
+    padding: 10px;
+	width:100%;
+	border: 1px solid #e1e3e5;
+}
+/* .border-box:hover {
+	transform: scale(1.1);
+}  */
+.bor:hover {
+	transform: scale(1.1);
+}
+.map-col {
+	margin-left: 10px!important;
+}
+.Default-info-circled:hover {
+	color:#359B09 !important;
+}
+#post-1637 {
+	max-height: 700px !important;
+}
+.portfolio-grid-container {
+	height: auto !important;
+}
+.sf-menu ul li {
+	background-color:#003470 !important;
+}
+.Default-info-circled {
+	display:none !important;
+}
+.Default-plus-circle {
+	color:#359b09 !important;
+}
+.map-box-shadow {
+	border: 1px solid #CCC;
+    box-shadow: 2px 4px 7px #ccc;
+}
+.grid-portfolio .portfolio-overlay{
+	box-shadow: 5px 3px 10px 3px #ccc;
+    border: 1px solid #ccc;
+}
+.menu-title {
+	color: #fff;
+    font-weight: 600;
+	text-transform: capitalize;
+	font-size: 13px;
+}
+#secondary--menu .menu-title {
+	color : #003470;
+}
